@@ -1,1 +1,1 @@
-this project was created locally
+this project was created locally.
